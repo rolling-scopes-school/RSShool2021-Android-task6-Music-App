@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Media Player</string>
+
+    <string name="previous_btn_name">prev</string>
+    <string name="play_btn_name">play</string>
+    <string name="pause_btn_name">pause</string>
+    <string name="stop_btn_name">stop</string>
+    <string name="next_btn_name">next</string>
+
+    <string name="notification_channel_name">Media Channel</string>
+    <string name="notification_channel_description">Shows the currently playing music</string>
+
+</resources>

@@ -1,0 +1,42 @@
+[
+  {
+    "mediaId": "1",
+    "title": "Ice and Snow",
+    "artist": "Rafael Krux",
+    "bitmapUri": "https://www.pelicanwater.com/blog/wp-content/uploads/2019/02/cropped-Snow_Blog_Jan_2019-01.jpg",
+    "trackUri": "https://freepd.com/music/Ice and Snow.mp3",
+    "duration": 141000
+  },
+  {
+    "mediaId": "2",
+    "title": "Desert Fox",
+    "artist": "Rafael Krux",
+    "bitmapUri": "https://i.natgeofe.com/k/1db1b816-aa92-434e-994f-d3298c9f58f8/fennec-fox-hole.jpg",
+    "trackUri": "https://freepd.com/music/Desert Fox.mp3",
+    "duration": 133000
+  },
+  {
+    "mediaId": "3",
+    "title": "Coy Koi",
+    "artist": "Frank Nora",
+    "bitmapUri": "https://m.media-amazon.com/images/I/81y0ZQKOi0L._AC_SL1429_.jpg",
+    "trackUri": "https://freepd.com/music/Coy Koi.mp3",
+    "duration": 48000
+  },
+  {
+    "mediaId": "4",
+    "title": "Tarantella",
+    "artist": "Kevin MacLeod",
+    "bitmapUri": "https://cdn.britannica.com/00/9100-004-59A78AD8/tarantella-Napoli-August-Bournonville-members-New-York-1842.jpg",
+    "trackUri": "https://freepd.com/music/Village Tarantella.mp3",
+    "duration": 53000
+  },
+  {
+    "mediaId": "5",
+    "title": "Bit Bit Loop",
+    "artist": "Kevin MacLeod",
+    "bitmapUri": "https://d37oebn0w9ir6a.cloudfront.net/account_2263/Cover-EDMFEST-EUROPEepb0310_0e5dada680e923891ab80cf0f35e1758.jpg",
+    "trackUri": "https://freepd.com/music/Bit Bit Loop.mp3",
+    "duration": 77000
+  }
+]
